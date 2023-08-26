@@ -1,0 +1,15 @@
+{
+    "name": "robot/php-framework-mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "pompeia"
+        }
+    ],
+    "require": {}
+}
